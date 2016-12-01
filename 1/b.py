@@ -46,7 +46,7 @@ def getFirstMatch(coords):
     return result
 
 
-with open('1-input.txt') as txt:
+with open('input.txt') as txt:
     up = 0
     right = 0
     # 1 north, 2 east, 3 south, 4 weat
